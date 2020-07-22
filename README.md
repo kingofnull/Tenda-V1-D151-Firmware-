@@ -1,4 +1,4 @@
-# Tenda-V1-D151-Last-Firmware-Build
+# Tenda V1 D151 Last Firmware Build
 Last available firmware Tenda first generation modem firmware.
 
 
